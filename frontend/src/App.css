@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  /* background-image: url("./background.png"); */
+  background: #23242a;
+  background-position: center;
+  background-size: cover;
+}
+/* .mybody{
+  min-height: 100vh;
+  display: flex;
+  background-image: url("./background.png");
+  background-position: center;
+  background-size: cover;
+} */
+.body1 
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	flex-direction: column;
+	background: #23242a;
+}
+.img1{
+  /* padding-top: 100px; */
+  width: 100%;
+  height: 90%;
+  padding-right: 10vw;
+  padding-top: 30vh;
+  padding-left: 5vw;
+
+}
+@media only screen and (max-width: 420px){
+  .img1{display: none;}
+}
+@media only screen and (max-width: 915px){
+  .img1{ width: 100%;
+    height: 60%;
+    padding-right: 10vw;
+    padding-top: 0;
+    padding-left: 5vw;}
+}
+@media only screen and (max-width: 540px){
+  .img1{ width: 100%;
+    height: 100%;
+    padding-right: 0;
+    padding-top: 0;
+    padding-left: 0;
+  }
+}
+
+
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
