@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
+https://jetsetsms.herokuapp.com/
 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
@@ -21,7 +21,7 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/geekychandan/mern-chat-app.git
 ```
 
 Go to the project directory
@@ -58,22 +58,24 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![Screenshot (26)](https://user-images.githubusercontent.com/110468423/203488669-e29f5a87-9faa-4890-8a51-fdd4ab42f05a.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/110468423/203488743-62a28f6c-65e9-4392-8b6b-6dee0d500cf4.png)
+
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![Screenshot (29)](https://user-images.githubusercontent.com/110468423/203488889-93f13ae9-011b-4c6b-b05a-9a38caf6d7f6.png)
+
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![Screenshot (32)](https://user-images.githubusercontent.com/110468423/203488920-bfa4bdbb-8d43-4f1a-a48c-54ed426be14a.png)
+
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![Screenshot (30)](https://user-images.githubusercontent.com/110468423/203488951-f4bbae6e-7fe5-44a8-af98-895f813a714a.png)
+
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![Screenshot (33)](https://user-images.githubusercontent.com/110468423/203488995-d99d7609-1ad9-4131-97db-7b4f2b3f8943.png)
+
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![Screenshot (34)](https://user-images.githubusercontent.com/110468423/203489022-b4fca7b7-77a4-425e-8cc3-5cd6755ab5f6.png)
+
 ## Made By
 
 - [@Piyush-eon](https://github.com/piyush-eon)
